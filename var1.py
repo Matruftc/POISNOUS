@@ -1,0 +1,5 @@
+number=int(input())
+books=int(20)
+print('''the books quantity will be in integer data types''',  books)
+book_name=str('The Science')
+print('''the book name will be in string data types-''',  book_name)

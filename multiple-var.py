@@ -1,0 +1,5 @@
+john_lucky_number=johnny_lucky_number=maya_lucky_number=10
+
+print(john_lucky_number)
+print(johnny_lucky_number)
+print(maya_lucky_number)
